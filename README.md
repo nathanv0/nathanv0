@@ -1,7 +1,7 @@
 # 💫 About Me:
 🔭 I’m currently a student at Metro State University<br>👯 I’m looking to collaborate on open source project<br>🤝 I’m looking for help with learning code<br>🌱 I’m currently learning React JS and Next JS<br>💬 Ask me about anything<br>⚡ Fun fact I can bench 220 
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=nathanv0&theme=one_dark_pro&hide_border=false)<br/>
+
 
 
 # 💻 Tech Stack:
